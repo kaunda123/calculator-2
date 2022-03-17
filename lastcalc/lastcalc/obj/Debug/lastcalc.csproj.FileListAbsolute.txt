@@ -1,0 +1,9 @@
+c:\users\gggjk\documents\visual studio 2013\Projects\lastcalc\lastcalc\bin\Debug\lastcalc.exe.config
+c:\users\gggjk\documents\visual studio 2013\Projects\lastcalc\lastcalc\bin\Debug\lastcalc.exe
+c:\users\gggjk\documents\visual studio 2013\Projects\lastcalc\lastcalc\bin\Debug\lastcalc.pdb
+c:\users\gggjk\documents\visual studio 2013\Projects\lastcalc\lastcalc\obj\Debug\lastcalc.csprojResolveAssemblyReference.cache
+c:\users\gggjk\documents\visual studio 2013\Projects\lastcalc\lastcalc\obj\Debug\lastcalc.Form1.resources
+c:\users\gggjk\documents\visual studio 2013\Projects\lastcalc\lastcalc\obj\Debug\lastcalc.Properties.Resources.resources
+c:\users\gggjk\documents\visual studio 2013\Projects\lastcalc\lastcalc\obj\Debug\lastcalc.csproj.GenerateResource.Cache
+c:\users\gggjk\documents\visual studio 2013\Projects\lastcalc\lastcalc\obj\Debug\lastcalc.exe
+c:\users\gggjk\documents\visual studio 2013\Projects\lastcalc\lastcalc\obj\Debug\lastcalc.pdb
